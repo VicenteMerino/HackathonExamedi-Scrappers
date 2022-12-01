@@ -1,0 +1,90 @@
+[
+    {
+        "id": 5522196,
+        "name": "Celtium 20 mg x 30 Comprimidos Recubiertos",
+        "price": 33676,
+        "active_principle": [
+            "ESCITALOPRAM"
+        ],
+        "img": "https://cdn-ahumada.azureedge.net/catalog/product/cache/a77266c1abf4147499139dcd165bfd03/3/7/37495bf8082a68746695e005b707b02b5f87dec2f5ad51c21f8618197181120c.jpg",
+        "source": "ahumada",
+        "link": "https://www.farmaciasahumada.cl/celtium-20-mg-x-30-comprimidos-recubiertos.html"
+    },
+    {
+        "id": 5522196,
+        "name": "Ectiban 20 mg x 30 Comprimidos Recubiertos",
+        "price": 32476,
+        "active_principle": [
+            "ESCITALOPRAM"
+        ],
+        "img": "https://cdn-ahumada.azureedge.net/catalog/product/cache/a77266c1abf4147499139dcd165bfd03/e/4/e4d82f2b939892b9c0ec14ed04e7f7e59268498aa14cb1c1aa546336e8dac464.jpg",
+        "source": "ahumada",
+        "link": "https://www.farmaciasahumada.cl/ectiban-20-mg-x-30-comprimidos-recubiertos.html"
+    },
+    {
+        "id": 5522196,
+        "name": "Esc 20 mg x 30 Comprimidos Recubiertos",
+        "price": 11272,
+        "active_principle": [
+            "ESCITALOPRAM"
+        ],
+        "img": "https://cdn-ahumada.azureedge.net/catalog/product/cache/a77266c1abf4147499139dcd165bfd03/9/8/983a60826ca5f9ba743bc4a34c4f73506b596560eabbcd2588e00ecd76a69907.jpg",
+        "source": "ahumada",
+        "link": "https://www.farmaciasahumada.cl/esc-20-mg-x-30-comprimidos-recubiertos.html"
+    },
+    {
+        "id": 5522196,
+        "name": "Esc Escitalopram 20 mg x 30 comprimidos",
+        "price": 10990,
+        "active_principle": [
+            "ESCITALOPRAM OXALATO"
+        ],
+        "img": "//cdn.shopify.com/s/files/1/0024/6058/1940/products/esc-20-mg-x-30-comprimidos-eurofarma-357737_1024x1024.jpg?v=1656969655",
+        "source": "farmex",
+        "link": "https://farmex.cl/products/esc-20-mg-x-30-comprimidos?_pos=2&_sid=0cad1e5c4&_ss=r"
+    },
+    {
+        "id": 5522196,
+        "name": "Ectiban Escitalopram 20 mg x 30 comprimidos",
+        "price": 33990,
+        "active_principle": [
+            "ESCITALOPRAM OXALATO"
+        ],
+        "img": "//cdn.shopify.com/s/files/1/0024/6058/1940/products/ectiban-20-mg-x-30-comprimidos-recubiertos-laboratorio-chile-287062_1024x1024.jpg?v=1658428385",
+        "source": "farmex",
+        "link": "https://farmex.cl/products/ectiban-20-mg-x-30-comprimidos-recubiertos?_pos=3&_sid=0cad1e5c4&_ss=r"
+    },
+    {
+        "id": 5522196,
+        "name": "Escitalopram 20 mg x 30 comprimidos \"Ley Cenabast\"",
+        "price": 4610,
+        "active_principle": [
+            "ESCITALOPRAM OXALATO"
+        ],
+        "img": "//cdn.shopify.com/s/files/1/0024/6058/1940/products/escitalopram-20-mg-x-30-comprimidos-ley-cenabast-seven-pharma-578130_1024x1024.jpg?v=1665171420",
+        "source": "farmex",
+        "link": "https://farmex.cl/products/escitalopram-20-mg-x-30-comprimidos-ley-cenabast?_pos=14&_sid=0cad1e5c4&_ss=r"
+    },
+    {
+        "id": 5522196,
+        "name": "Ipran 20 mg x 30 comprimidos",
+        "price": 36414,
+        "active_principle": [
+            "ESCITALOPRAM OXALATO"
+        ],
+        "img": "//cdn.shopify.com/s/files/1/0024/6058/1940/products/ipran-20-mg-x-30-comp-abbott-555834_1024x1024.jpg?v=1666385721",
+        "source": "farmex",
+        "link": "https://farmex.cl/products/ipran-20-mg-x-30-comp?_pos=18&_sid=0cad1e5c4&_ss=r"
+    },
+    {
+        "id": 5522196,
+        "name": "Citalopram 20 Mg. 30 Comprimidos Recubiertos",
+        "price": 3279,
+        "active_principle": [
+            "ESCITALOPRAM OXALATO"
+        ],
+        "img": "https://d1tjllbjmslitt.cloudfront.net/spree/products/66174/large/573193.jpg?1641914603",
+        "source": "salcobrand",
+        "link": "https://salcobrand.cl/products/citalopram-30-comprimidos-recubiertos?default_sku=573193"
+    }
+]

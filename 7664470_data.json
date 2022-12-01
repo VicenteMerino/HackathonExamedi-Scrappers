@@ -1,0 +1,46 @@
+[
+    {
+        "id": 7664470,
+        "name": "Tradox 100 mg x 30 Comprimidos",
+        "price": 29669,
+        "active_principle": [
+            "LAMOTRIGINA"
+        ],
+        "img": "https://cdn-ahumada.azureedge.net/catalog/product/cache/a77266c1abf4147499139dcd165bfd03/a/7/a7c3ccc01156aae7f283ed4285f1fb8ff95f84938d2c5ed690784611554579fb.jpg",
+        "source": "ahumada",
+        "link": "https://www.farmaciasahumada.cl/tradox-100-mg-x-30-comprimidos.html"
+    },
+    {
+        "id": 7664470,
+        "name": "Lamictal 100 mg x 30 comprimidos dispersables",
+        "price": 52990,
+        "active_principle": [
+            "LAMOTRIGINA"
+        ],
+        "img": "//cdn.shopify.com/s/files/1/0024/6058/1940/products/lamictal-100-mg-x-30-comprimidos-dispersables-programa-juntos-gsk-glaxosmichkline-662357_1024x1024.jpg?v=1656946247",
+        "source": "farmex",
+        "link": "https://farmex.cl/products/lamictal-tabletas-dispers-lamotrigina?_pos=1&_sid=e82ce32cc&_ss=r"
+    },
+    {
+        "id": 7664470,
+        "name": "Lamictal 100 mg x 30 comprimidos",
+        "price": 52490,
+        "active_principle": [
+            "LAMOTRIGINA"
+        ],
+        "img": "//cdn.shopify.com/s/files/1/0024/6058/1940/products/lamictal-100-mg-x-30-comprimidos-gsk-116040_1024x1024.jpg?v=1660191294",
+        "source": "farmex",
+        "link": "https://farmex.cl/products/lamictal-tabletas-lamotrigina?_pos=2&_sid=e82ce32cc&_ss=r"
+    },
+    {
+        "id": 7664470,
+        "name": "Meganox 100 mg x 30 comprimidos dispersables",
+        "price": 43000,
+        "active_principle": [
+            "LAMOTRIGINA"
+        ],
+        "img": "//cdn.shopify.com/s/files/1/0024/6058/1940/products/meganox-100-mg-x-30-comprimidos-dispersables-etex-215948_1024x1024.jpg?v=1656597939",
+        "source": "farmex",
+        "link": "https://farmex.cl/products/meganox-tabletas-dispers-lamotrigina?_pos=4&_sid=e82ce32cc&_ss=r"
+    }
+]

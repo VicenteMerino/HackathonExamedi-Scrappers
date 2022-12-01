@@ -1,0 +1,35 @@
+[
+    {
+        "id": 2438421,
+        "name": "Burten 10 mg x 20 Comprimidos",
+        "price": 15434,
+        "active_principle": [
+            "KETOROLACO TROMETAMOL"
+        ],
+        "img": "https://cdn-ahumada.azureedge.net/catalog/product/cache/a77266c1abf4147499139dcd165bfd03/2/f/2f90ee7be6053df8f7318f66e7337d4f6d64ec2a4840628c0b58836ba233b3fe.jpg",
+        "source": "ahumada",
+        "link": "https://www.farmaciasahumada.cl/burten-10-mg-x-20-comprimidos.html"
+    },
+    {
+        "id": 2438421,
+        "name": "Syndol 10 mg x 20 Comprimidos Recubiertos",
+        "price": 15402,
+        "active_principle": [
+            "KETOROLACO TROMETAMOL"
+        ],
+        "img": "https://cdn-ahumada.azureedge.net/catalog/product/cache/a77266c1abf4147499139dcd165bfd03/e/7/e7a8f7b949d073e5e5777991dea59c1633ca02726dcf4311aaa21d9950bde695.jpg",
+        "source": "ahumada",
+        "link": "https://www.farmaciasahumada.cl/syndol-10-mg-x-20-comprimidos-recubiertos.html"
+    },
+    {
+        "id": 2438421,
+        "name": "Burten 10 mg x 20 comprimidos",
+        "price": 13990,
+        "active_principle": [
+            "KETOROLACO TROMETAMOL"
+        ],
+        "img": "//cdn.shopify.com/s/files/1/0024/6058/1940/products/burten-10-mg-x-20-comprimidos-laboratorio-chile-844965_1024x1024.jpg?v=1658425017",
+        "source": "farmex",
+        "link": "https://farmex.cl/products/burten-10-mg-x-20-comprimidos?_pos=9&_sid=1cba8c565&_ss=r"
+    }
+]

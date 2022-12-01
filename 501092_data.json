@@ -1,0 +1,46 @@
+[
+    {
+        "id": 501092,
+        "name": "ESCITAVITAE 10MG. CAJA 28 COMP.REC",
+        "price": 8817,
+        "active_principle": [
+            "ESCITALOPRAM OXALATO"
+        ],
+        "img": "https://cdn-ahumada.azureedge.net/catalog/product/cache/a77266c1abf4147499139dcd165bfd03/6/d/6da982125a947b5d1455fb3cc31ea230671b9f22ef12885ecf2aa2b102aeeb34.jpg",
+        "source": "ahumada",
+        "link": "https://www.farmaciasahumada.cl/escitavitae-10mg-caja-28-comp-rec.html"
+    },
+    {
+        "id": 501092,
+        "name": "Lexapro 10 mg x 28 Comprimidos Recubiertos",
+        "price": 38966,
+        "active_principle": [
+            "ESCITALOPRAM"
+        ],
+        "img": "https://cdn-ahumada.azureedge.net/catalog/product/cache/a77266c1abf4147499139dcd165bfd03/4/f/4f6e29332d7003abccae3dea3a8e212a790c3f4e6b4a76d775e0519c8e17e405.jpg",
+        "source": "ahumada",
+        "link": "https://www.farmaciasahumada.cl/lexapro-10-mg-x-28-comprimidos-recubiertos.html"
+    },
+    {
+        "id": 501092,
+        "name": "Escitavitae 10 mg x 28 comprimidos",
+        "price": 7990,
+        "active_principle": [
+            "ESCITALOPRAM OXALATO"
+        ],
+        "img": "//cdn.shopify.com/s/files/1/0024/6058/1940/products/escitavitae-10-mg-x-28-comprimidos-galenicum-950318_1024x1024.jpg?v=1657202450",
+        "source": "farmex",
+        "link": "https://farmex.cl/products/escitavitae-10-mg-x-28-comprimidos?_pos=7&_sid=0cad1e5c4&_ss=r"
+    },
+    {
+        "id": 501092,
+        "name": "Lexapro 10 mg x 28 comprimidos",
+        "price": 42990,
+        "active_principle": [
+            "ESCITALOPRAM OXALATO"
+        ],
+        "img": "//cdn.shopify.com/s/files/1/0024/6058/1940/products/lexapro-10-mg-x-28-comprimidos-lundbeck-997917_1024x1024.jpg?v=1656597329",
+        "source": "farmex",
+        "link": "https://farmex.cl/products/lexapro-tabletas-escitalopram-10?_pos=16&_sid=0cad1e5c4&_ss=r"
+    }
+]

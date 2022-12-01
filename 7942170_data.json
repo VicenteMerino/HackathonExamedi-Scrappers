@@ -1,0 +1,46 @@
+[
+    {
+        "id": 7942170,
+        "name": "Lexapro 20 mg x 28 Comprimidos Recubiertos",
+        "price": 55036,
+        "active_principle": [
+            "ESCITALOPRAM"
+        ],
+        "img": "https://cdn-ahumada.azureedge.net/catalog/product/cache/a77266c1abf4147499139dcd165bfd03/2/6/26af17f07135de5ec8dbba647634f0e4253648f8ba56a81883bb33045b7f8260.jpg",
+        "source": "ahumada",
+        "link": "https://www.farmaciasahumada.cl/lexapro-20-mg-x-28-comprimidos-recubiertos.html"
+    },
+    {
+        "id": 7942170,
+        "name": "Escitavitae 20 mg x 28 Comprimidos Recubiertos",
+        "price": 17872,
+        "active_principle": [
+            "ESCITALOPRAM"
+        ],
+        "img": "https://cdn-ahumada.azureedge.net/catalog/product/cache/a77266c1abf4147499139dcd165bfd03/4/9/49b7111aa840cff5ad9e3cf2280c5651ff6bab2c90b4ded4bd1e735df5c4c56d.jpg",
+        "source": "ahumada",
+        "link": "https://www.farmaciasahumada.cl/escitavitae-20-mg-x-28-comprimidos-recubiertos.html"
+    },
+    {
+        "id": 7942170,
+        "name": "Escitavitae 20 mg x 28 comprimidos",
+        "price": 11990,
+        "active_principle": [
+            "ESCITALOPRAM OXALATO"
+        ],
+        "img": "//cdn.shopify.com/s/files/1/0024/6058/1940/products/escitavitae-20-mg-x-28-comprimidos-galenicum-259869_1024x1024.jpg?v=1657661003",
+        "source": "farmex",
+        "link": "https://farmex.cl/products/escitavitae-20-mg-x-28-comprimidos?_pos=5&_sid=0cad1e5c4&_ss=r"
+    },
+    {
+        "id": 7942170,
+        "name": "Lexapro 20 mg x 28 comprimidos",
+        "price": 73990,
+        "active_principle": [
+            "ESCITALOPRAM OXALATO"
+        ],
+        "img": "//cdn.shopify.com/s/files/1/0024/6058/1940/products/lexapro-20-mg-x-28-comprimidos-lundbeck-927348_1024x1024.jpg?v=1656597332",
+        "source": "farmex",
+        "link": "https://farmex.cl/products/lexapro-tabletas-escitalopram-20?_pos=19&_sid=0cad1e5c4&_ss=r"
+    }
+]

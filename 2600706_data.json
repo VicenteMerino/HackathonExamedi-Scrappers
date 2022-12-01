@@ -1,0 +1,24 @@
+[
+    {
+        "id": 2600706,
+        "name": "Sentis 18,75 mg x 30 cápsulas (Venta solo en sucursal)",
+        "price": 12990,
+        "active_principle": [
+            "FENTERMINA CLORHIDRATO"
+        ],
+        "img": "//cdn.shopify.com/s/files/1/0024/6058/1940/products/sentis-1875-mg-x-30-capsulas-lab-chile-659071_1024x1024.jpg?v=1658414776",
+        "source": "farmex",
+        "link": "https://farmex.cl/products/sentis-18-75-mg-x-30-capsulas?_pos=1&_sid=c8e2eb3f6&_ss=r"
+    },
+    {
+        "id": 2600706,
+        "name": "Sentis (B) 18.75mg 30 Capsulas",
+        "price": 13599,
+        "active_principle": [
+            "FENTERMINA CLORHIDRATO"
+        ],
+        "img": "https://d1tjllbjmslitt.cloudfront.net/spree/products/75169/large/fotos-con-huincha-ISP-439198.jpg?1656084687",
+        "source": "salcobrand",
+        "link": "https://salcobrand.cl/products/principio-activo-fentermina-18-75-mg?default_sku=439198&queryID=36e3b12e6d7e4ff38955a4a3a5d6789b"
+    }
+]
