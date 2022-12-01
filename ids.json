@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "active_principle": [
+      "PARACETAMOL"
+    ],
+    "grammage": "1000mg",
+    "amount": 20
+  },
+  {
+    "id": 2,
+    "active_principle": [
+      "PARACETAMOL"
+    ],
+    "grammage": "500mg",
+    "amount": 24
+  },
+  {
+    "id": 3,
+    "active_principle": [
+      "PARACETAMOL"
+    ],
+    "grammage": "500mg",
+    "amount": 16
+  }
+]
