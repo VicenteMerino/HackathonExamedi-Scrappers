@@ -1,0 +1,119 @@
+[
+  {
+    "name": "IBUPROFENO 400MG.CAJA 20 COMP",
+    "img": "https://cdn-ahumada.azureedge.net/catalog/product/cache/a77266c1abf4147499139dcd165bfd03/6/f/6f1eeef112ca0877bb0b16afbbb1d95b92c6c2942b48e208d63f5c8609fd5721.jpg",
+    "active_principle": [
+      "IBUPROFENO"
+    ],
+    "source": "ahumada",
+    "id": 101,
+    "price": 658
+  },
+  {
+    "name": "Actron 400mg X 20 Capsulas Blandas",
+    "active_principle": [
+      "IBUPROFENO"
+    ],
+    "source": "ahumada",
+    "id": 101,
+    "price": 4636
+  },
+  {
+    "name": "Pyriped Ibuprofeno 400 mg 20 Cápsulas Blandas",
+    "img": "https://beta.cruzverde.cl/on/demandware.static/-/Sites-masterCatalog_Chile/default/dw30a105cf/images/large/263909-pyriped-capsulas-blandas-20-unidades-ibuprofeno-400-mg.jpg",
+    "active_principle": [
+      "IBUPROFENO"
+    ],
+    "source": "cruzverde",
+    "id": 101,
+    "price": 2214
+  },
+  {
+    "name": "Ibupirac LC Ibuprofeno 400 mg 20 Cápsulas Blandas",
+    "img": "https://beta.cruzverde.cl/on/demandware.static/-/Sites-masterCatalog_Chile/default/dwb0b44990/images/large/257271-ibupirac-lc-ibuprofeno-400-mg-20-capsulas-blandas.jpg",
+    "active_principle": [
+      "IBUPROFENO"
+    ],
+    "source": "cruzverde",
+    "id": 101,
+    "price": 4152
+  },
+  {
+    "name": "Actron Ibuprofeno 400 mg 20 Cápsulas Blandas",
+    "img": "https://beta.cruzverde.cl/on/demandware.static/-/Sites-masterCatalog_Chile/default/dwcc36ac45/images/large/393607-actron-ibuprofeno-400-mg-20-capsulas-blandas.jpg",
+    "active_principle": [
+      "IBUPROFENO"
+    ],
+    "source": "cruzverde",
+    "id": 101,
+    "price": 4053
+  },
+  {
+    "name": "Ibuprofeno 400 Mg - 20 Comprimidos Recubiertos",
+    "img": "https://farmaciasdeldrsimicl.vtexassets.com/arquivos/ids/155605-800-auto?v=637964770577700000&width=800&height=auto&aspect=true",
+    "active_principle": [
+      "IBUPROFENO"
+    ],
+    "source": "simi",
+    "id": 101,
+    "price": 800
+  },
+  {
+    "name": "Pyriped - Ibuprofeno 400 Mg - 20 Cápsulas",
+    "price": 3720,
+    "img": "https://farmaciasdeldrsimicl.vtexassets.com/arquivos/ids/155607-800-auto?v=637964770585530000&width=800&height=auto&aspect=true",
+    "active_principle": [
+      "IBUPROFENO"
+    ],
+    "source": "simi",
+    "id": 101
+  },
+  {
+    "name": "Actron 600 mg x 10 Cápsulas Blandas",
+    "price": 5116,
+    "img": "https://cdn-ahumada.azureedge.net/catalog/product/cache/a77266c1abf4147499139dcd165bfd03/4/7/474a658eb16484a7cbd7f22ce7a59c369050b4370d82549cb9d55765436ddb4e.jpg",
+    "active_principle": [
+      "IBUPROFENO"
+    ],
+    "source": "ahumada",
+    "id": 102
+  },
+  {
+    "name": "Ibupirac LC 600 mg x 10 Cápsulas Blandas",
+    "price": 4137,
+    "img": "https://cdn-ahumada.azureedge.net/catalog/product/cache/a77266c1abf4147499139dcd165bfd03/f/1/f15d06e08033a9bb9a6b862539edebc4aef1a317e4218b44b20a90807aa69718.jpg",
+    "active_principle": [
+      "IBUPROFENO"
+    ],
+    "source": "ahumada",
+    "id": 102
+  },
+  {
+    "name": "Ibuprofeno 600 Mg - 20 Comprimidos Recubiertos",
+    "active_principle": [
+      "IBUPROFENO"
+    ],
+    "img": "https://farmaciasdeldrsimicl.vtexassets.com/arquivos/ids/155635-800-auto?v=637964770681100000&width=800&height=auto&aspect=true",
+    "source": "simi",
+    "price": 960,
+    "id": 102
+  },
+  {
+    "name": "Ibupirac Lc - Ibuprofeno 600 Mg - 10 Cápsulas",
+    "active_principle": [
+      "IBUPROFENO"
+    ],
+    "img": "https://farmaciasdeldrsimicl.vtexassets.com/arquivos/ids/155608-800-auto?v=637964770589130000&width=800&height=auto&aspect=true",
+    "price": 4800,
+    "id": 102
+  },
+  {
+    "name": "Ibupirac LC Ibuprofeno 600 mg 10 Cápsulas Blandas",
+    "id": 102,
+    "price": 6064,
+    "img": "Ibupirac LC Ibuprofeno 600 mg 10 Cápsulas Blandas",
+    "active_principle": [
+      "IBUPROFENO"
+    ]
+  }
+]
